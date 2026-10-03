@@ -18,7 +18,7 @@
 
 - 🧭 Freelance **CRM consultant**, helping clinics and small businesses turn conversations into predictable sales
 - ⚙️ Specialized in **Kommo CRM** implementation, **n8n** and API automations, and **WhatsApp** integrations
-- 🚀 Building my own **SaaS products** alongside the consulting practice: ClinicCRM and Simples Financeiro
+- 🚀 Building my own **projects** alongside the consulting practice: the ClinicCRM SaaS and the Simples Financeiro finance system
 - 🎓 Studying **Computer Engineering**
 - 🌎 Based in SP, Brazil. Working remotely with clients across the country
 - 💬 Ask me about: Kommo CRM, sales process design, WhatsApp automation, n8n workflows and dashboards
